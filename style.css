@@ -1,0 +1,148 @@
+body {
+  background-color: #F8F9FA;
+}
+
+.nav{
+  background-color: #292929 !important;
+}
+
+.card-img-top{
+  transition: transform .2s; /* Animation */
+  width: 300px;
+  height: 130px;
+}
+  
+ .card-img-top:hover {
+   transform: scale(1.2);
+ }
+
+ .parent{
+   overflow: hidden !important;
+   background-color: #169E9C;
+   border-radius: 10px;
+ }
+
+ 
+.collapse ul li a{
+color: #19A19F;
+}
+.collapse ul li a:hover{
+color: #F70179 !important;
+}
+
+.serchbar {
+    color: white !important;
+    background-color: #19A19F !important;
+}
+
+.serchbar:hover {
+    background-color: #F70179 !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.text-center {
+    font-size: 15px !important;
+}
+
+.active {
+    color: #19A19F !important;
+    font-size: 30px !important;
+}
+
+
+
+
+.ullu {
+  color: #19A19F !important;
+}
+
+.ullu:hover {
+  color: #F70179 !important;
+}
+
+.flex-fill a{
+  color:#19A19F !important;
+}
+.flex-fill a:hover {
+  color: #F70179 !important;
+}
+
+.img-fluid {
+  transition: transform .2s; /* Animation */
+  width: 320px;
+  height: 220px;
+}
+
+.img-fluid:hover {
+  transform: scale(1.1);
+}
+
+.imgside{
+  transition: transform .2s; /* Animation */
+  width: 160px;
+  height: 150px;
+}
+  
+ .imgside:hover {
+   transform: scale(1.1);
+ }
+
+ .btn-primary {
+   background-color: darkslateblue !important;
+   border-radius: 20px;
+   outline: none;
+
+ }
+
+ .btn-primary:hover {
+   background-color: #F5017B !important;
+   outline: none; 
+ }
+
+ 
+
+
+
+ .aboutbg
+ {
+   background: rgba(0, 0, 0, 0.4) url(./Cards/22550-wallpaper-sweets-dessert-raznotsvet-macaron-macaroon.jpg);
+   height: 600px;
+   background-blend-mode: darken !important;
+   width: 100%;
+   background-repeat: no-repeat !important;
+   background-size: cover !important;
+   margin-top: 60px !important;
+   position: relative !important;
+   overflow: hidden !important;
+ }
+ aboutbg::before
+ {
+   content: "";
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  opacity: 0.4;
+  display: block;
+
+ }
+
+
+ .abouttexting h1 {
+   text-align: center;
+   font-size: 50px !important;
+   padding-right: 100px !important;
+ }
+ 
+ .abouttexting p1 {
+   font-size: 15px !important;
+ }
+ 
+ 
+ 
+ 
